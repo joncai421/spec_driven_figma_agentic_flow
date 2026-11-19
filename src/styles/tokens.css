@@ -1,0 +1,19 @@
+/* Design tokens — the ONLY file allowed to contain raw color values.
+   Starter variables per spec-driven.md §16; real values come from Figma
+   variables via approved tasks (see docs/design-system.md). */
+:root {
+  /* color */
+  --color-primary-500: #1a73e8;
+  --color-neutral-0: #ffffff;
+  --color-neutral-900: #111827;
+
+  /* spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+
+  /* radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+}

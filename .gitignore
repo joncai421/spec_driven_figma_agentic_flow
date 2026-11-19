@@ -16,3 +16,10 @@ dist-ssr
 .idea
 .DS_Store
 *.local
+
+# Spec-driven setup (spec-driven.md §15)
+.claude/settings.local.json
+.claude/.state/
+test-results/
+playwright-report/
+coverage/
