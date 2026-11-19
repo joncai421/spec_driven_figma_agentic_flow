@@ -1,4 +1,4 @@
-# figma-poc — Spec-Driven Agentic Development
+# Spec-Driven x figma Agentic Development
 
 A responsive (mobile-first, PC + mobile) React + TypeScript + Vite project wired for
 **spec-driven, gated agentic development** with Figma MCP as the design source of truth.
